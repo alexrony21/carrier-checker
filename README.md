@@ -1,7 +1,7 @@
 # Phone Number Carrier Lookup
 # 电话号码运营商查询
 
-![Phone Number Carrier Lookup]()
+![Phone Number Carrier Lookup](https://raw.githubusercontent.com/alexrony21/carrier-checker/refs/heads/main/carrier-checker.png)
 
 ## Features:
 1. 206 countries supported
