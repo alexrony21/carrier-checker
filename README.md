@@ -5,7 +5,7 @@
 
 ## Features:
 1. 206 countries supported
-2. efficient processing and fast number format validation
+2. Efficient processing and fast number format validation
 3. Provides functionality to identify the associated operating carrier for segmentation
 4. Designed to accept and process large input files (e.g., TXT) for streamlined operation
 
