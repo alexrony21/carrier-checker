@@ -1,23 +1,28 @@
-# Phone Number Carrier Lookup
-# 电话号码运营商查询
+# Phone Carrier Lookup
 
-![Phone Number Carrier Lookup](https://raw.githubusercontent.com/alexrony21/carrier-checker/refs/heads/main/carrier-checker.png)
-
-## Features:
-1. 206 countries supported
-2. Efficient processing and fast number format validation
-3. Provides functionality to identify the associated operating carrier for segmentation
-4. Designed to accept and process large input files (e.g., TXT) for streamlined operation
-
----
+![phone-carrier-lookup](https://raw.githubusercontent.com/thepythoncode97/number-carrier-checker/refs/heads/main/phone-number-carrier-checker.png)
 
 ## 🤝 Get in Touch
 
 if you want to purchase,
 
+如果你想购买，
+
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
+---
+
+## Features:
+- Supports phone number verification across 206 countries.
+- Ensure the accuracy of the phone numbers.
+- Check numbers by carriers.
+- Check numbers by types such as mobile, fixed line, voip etc.
+- Import any quantity of phone numbers for validation.
+- Can handle large volumes of requests smoothly.
+- No Third-Party API Key Required.
+
+---
 
 ## Supported Countries:
 | Country Name | Country Name | Country Name |
@@ -92,9 +97,5 @@ if you want to purchase,
 | Vietnam | Wallis and Futuna | Yemen |
 | Zambia | Zimbabwe |
 
-
 ## Note:
-If you engage in any illegal activities using this tool, the author will not take any responsibility.
-
----
-Thank You.
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
